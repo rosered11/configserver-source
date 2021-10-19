@@ -1,2 +1,4 @@
 accounts:
   msg: Welcome to account on config server env prod
+cards:
+  url: http://rosereds-macbook-pro.local:5008/card
