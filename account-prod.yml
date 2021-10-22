@@ -2,3 +2,5 @@ accounts:
   msg: Welcome to account on config server env prod
 cards:
   url: http://cardapi/
+zipkin:
+  url: http://zipkin-service:9411
